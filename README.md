@@ -1,6 +1,6 @@
 # Data Scientist
 
-<a href="https://linkedin.com"> <img src="https://www.linkedin.com/in/meryem-mohiddine-182702257/"/> </a>
+<a href="https://linkedin.com"> <img src="https://www.linkedin.com/in/meryem-mohiddine-182702257/" /> </a>
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ### Education
