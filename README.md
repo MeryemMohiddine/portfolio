@@ -1,6 +1,6 @@
 # Data Scientist
 
-[![View on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=LinkedIn)](https://www.linkedin.com/in/meryem-mohiddine-182702257/)
+[![View on LinkedIn](https://img.shields.io/badge/LinkedIn-View_on_LinkedIn-blue?logo=LinkedIn)](https://www.linkedin.com/in/meryem-mohiddine-182702257/)
 
 
 ### Education
