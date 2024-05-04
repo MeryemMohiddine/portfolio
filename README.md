@@ -1,4 +1,6 @@
 # Data Scientist
+
+<a href="https://linkedin.com"> <img src="https://www.linkedin.com/in/meryem-mohiddine-182702257/"/> </a>
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ### Education
@@ -16,3 +18,8 @@
 
 - Machine Learning for All | University of London
 - Advanced Learning Algorithms | Standfor University 
+
+  ### Technology
+  <div>
+    ljluihilouighiyfg
+  </div>
