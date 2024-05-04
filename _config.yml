@@ -1,5 +1,7 @@
 title : <p align="center"> Meryem Mohiddine </p>
+
 logo : assets/me.png
+
 description:
   <p align="center">
   Rabat, Morocco
@@ -8,6 +10,6 @@ description:
   <a href="https://www.linkedin.com/in/meryem-mohiddine-182702257/">LinkedIn</a> |
   <a href="https://github.com/MeryemMohiddine">GitHub</a>
   </p>
-#description: text below image
-#show_downloads: true
+  
+
 theme: jekyll-theme-minimal
