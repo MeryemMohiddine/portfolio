@@ -1,6 +1,6 @@
 # Data Scientist
 
-<a href="https://linkedin.com"> <img src="https://www.linkedin.com/in/meryem-mohiddine-182702257/" /> </a>
+<div> <img src="https://www.linkedin.com/in/meryem-mohiddine-182702257/" /> </div>
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ### Education
@@ -10,9 +10,9 @@
   
 ### Acadimic Projects 
 
-- Breast cancer classification using Machine Learning
-- Heart Stroke Prediction using Machine Learning
-- Image classifier on CIFAR-10 dataset using CNN
+**Breast cancer classification using Machine Learning**
+**Heart Stroke Prediction using Machine Learning**
+**Image classifier on CIFAR-10 dataset using CNN**
 
 ### Certificats
 
