@@ -9,6 +9,10 @@
 ### Acadimic Projects 
 
 - Breast cancer classification using Machine Learning
+- Heart Stroke Prediction using Machine Learning
 - Image classifier on CIFAR-10 dataset using CNN
 
 ### Certificats
+
+- Machine Learning for All | University of London
+- Advanced Learning Algorithms | Standfor University 
