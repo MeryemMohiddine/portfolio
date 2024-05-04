@@ -5,10 +5,10 @@ logo : assets/Design sans titre (1) (1).png
 description:
         <p align="center">
           Rabat, Morocco
-          <br> mohiddine.meryem@gmail.com
-          <br> <a href="pdf/Meryem_mohiddine_CV_eng.pdf">Resume</a> |
-          <a href="https://www.linkedin.com/in/meryem-mohiddine-182702257/">LinkedIn</a> |
-          <a href="https://github.com/MeryemMohiddine">GitHub</a>
+         # <br> mohiddine.meryem@gmail.com
+         # <br> <a href="pdf/Meryem_mohiddine_CV_eng.pdf">Resume</a> |
+        #  <a href="https://www.linkedin.com/in/meryem-mohiddine-182702257/">LinkedIn</a> |
+       #   <a href="https://github.com/MeryemMohiddine">GitHub</a>
   </p>
 
 
